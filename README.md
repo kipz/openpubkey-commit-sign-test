@@ -1,2 +1,1 @@
 # openpubkey-commit-sign-test
-.
